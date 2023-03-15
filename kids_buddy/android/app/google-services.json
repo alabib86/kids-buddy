@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "655217244408",
+    "project_id": "kids-buddy-1ef90",
+    "storage_bucket": "kids-buddy-1ef90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655217244408:android:c3a27cbd23b51d51afa30d",
+        "android_client_info": {
+          "package_name": "com.kbuddy.kids_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655217244408-4i9k4bpmgkl82gk0prun64dpsv46n48j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kbuddy.kids_buddy",
+            "certificate_hash": "1c5f37fdfe6cfc23c25bc2b8b6f3e6e12ca1c74b"
+          }
+        },
+        {
+          "client_id": "655217244408-k7h813phdc4n3qf5m619blp5a3eo2965.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtZbBJw3Eo4p6b40uYBHuYim1BFcOnONI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655217244408-k7h813phdc4n3qf5m619blp5a3eo2965.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655217244408-6v1khure46klb8vbk9btjtph4a9ivl56.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kbuddy.kidsBuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
